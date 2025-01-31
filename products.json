@@ -1,0 +1,1129 @@
+[
+    {
+        "id": 1,
+        "name": "Red Trinkets Tunic Set",
+        "originalPrice": 330,
+        "discountPercentage": 30,
+        "rating": { "rate": 4.5, "count": 120 },
+        "category": "kurta",
+        "image": "K-N-1.webp",
+        "images": [
+            "K-N-1.webp",
+            "K-N-2.webp",
+            "K-N-3.webp"
+        ],
+        "description": "Yoke adorned with gold sequin and dori embroidery.",
+        "details": [
+            "Made from premium quality fabric",
+            "Perfect for festive occasions",
+            "Available in multiple sizes"
+        ],
+        "colors": [
+            { "code": "#cf0b0b", "name": "Red" }
+        ],
+        "sizes": [
+            { "size": "One Size", "stock": 10 }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "The Keseri Salwar Set",
+        "originalPrice": 435,
+        "discountPercentage": 35,
+        "rating": {
+            "rate": 4.0,
+            "count": 95
+        },
+        "category": "kurta",
+        "description": "A floral printed kurta with a modern touch.",
+        "image": "p2",
+        "images": [
+            "K-G-1.webp",
+            "K-G-2.webp",
+            "K-G-3.webp"
+        ],
+        "details": [
+            "Lightweight and breathable fabric",
+            "Elegant floral prints",
+            "Ideal for casual outings"
+        ],
+        "colors": [
+            {
+                "code": "#f39c12",
+                "name": "Orange"
+            },
+            {
+                "code": "#bb3613",
+                "name": "Red"
+            }
+        ],
+        "sizes": [
+            {
+                "size": "6",
+                "stock": 2
+            },
+            {
+                "size": "7",
+                "stock": 10
+            },
+            {
+                "size": "8",
+                "stock": 0
+            },
+            {
+                "size": "9",
+                "stock": 5
+            }
+        ]
+    },
+
+
+    {
+      "id": 5,
+      "name": "The Kala Khatta Salwar Set",
+      "originalPrice": 20,
+      "discountPercentage": 15,
+      "category": "kurta",
+      "description": "Stylish pattern with unique golden embroidery designs.",
+      "rating": {
+        "rate": 4.2,
+        "count": 110
+      },
+      "image": "p5",
+      "colors": [
+        {
+          "code": "#000",
+          "name": "Black"
+        }
+      ],
+      "images": [
+        "K-F-3.webp",
+        "K-F-2.webp",
+        "K-F-4.webp"
+      ],
+      "details": [
+        "Made from premium quality fabric",
+        "Perfect for festive occasions",
+        "Available in multiple sizes"
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 1
+        },
+        {
+          "size": "M",
+          "stock": 3
+        },
+        {
+          "size": "L",
+          "stock": 2
+        },
+        {
+          "size": "XL",
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "The Jamun Cooler Salwar Set",
+      "originalPrice": 120,
+      "discountPercentage": 10,
+      "category": "kurta",
+      "description": "Antique gold embroidery set on a creamy luxurious fabric.",
+      "rating": {
+        "rate": 3.9,
+        "count": 85
+      },
+      "image": "p6",
+      "colors": [
+        {
+          "code": "#821081",
+          "name": "Purple"
+        }
+      ],
+      "images": [
+        "K-H-1.webp",
+        "K-H-2.webp",
+        "K-H-3.webp"
+      ],
+      "details": [
+        "Made from premium quality fabric",
+        "Perfect for festive occasions",
+        "Available in multiple sizes"
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 0
+        },
+        {
+          "size": "M",
+          "stock": 2
+        },
+        {
+          "size": "L",
+          "stock": 0
+        },
+        {
+          "size": "XL",
+          "stock": 1
+        }
+      ]
+    },
+    [
+        {
+          "id": 7,
+          "name": "The Kalakand Salwar Set",
+          "originalPrice": 2000,
+          "discountPercentage": 30,
+          "category": "kurta",
+          "description": "Contrast patchwork embroidery in multiple jewel tones.",
+          "rating": {
+            "rate": 4.8,
+            "count": 210
+          },
+          "image": "p7",
+          "colors": [
+            {
+              "code": "#000",
+              "name": "Black"
+            }
+          ],
+          "images": [
+            "K-L-1.webp",
+            "K-L-2.webp",
+            "K-L-3.webp"
+          ],
+          "details": [
+            "Made from premium quality fabric",
+            "Perfect for festive occasions",
+            "Available in multiple sizes"
+          ],
+          "sizes": [
+            {
+              "size": "S",
+              "stock": 0
+            },
+            {
+              "size": "M",
+              "stock": 0
+            },
+            {
+              "size": "L",
+              "stock": 3
+            },
+            {
+              "size": "XL",
+              "stock": 0
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Red Spring Blossom Kurta",
+          "originalPrice": 1200,
+          "discountPercentage": 25,
+          "category": "kurta",
+          "description": "Adorned with aari embroidery and embellished with embroidered borders.",
+          "rating": {
+            "rate": 4.5,
+            "count": 290
+          },
+          "image": "p8",
+          "colors": [
+            {
+              "code": "#c40404",
+              "name": "Red"
+            }
+          ],
+          "images": [
+            "K-J-1.webp",
+            "K-J-2.webp",
+            "K-J-3.webp"
+          ],
+          "details": [
+            "Made from premium quality fabric",
+            "Perfect for festive occasions",
+            "Available in multiple sizes"
+          ],
+          "sizes": [
+            {
+              "size": "S",
+              "stock": 0
+            },
+            {
+              "size": "M",
+              "stock": 0
+            },
+            {
+              "size": "L",
+              "stock": 0
+            },
+            {
+              "size": "XL",
+              "stock": 0
+            }
+          ]
+        },
+
+        {
+            "id": 9,
+            "name": "The Aam Panna Kurta Set.",
+            "originalPrice": 1320,
+            "discountPercentage": 21,
+            "category": "kurta",
+            "description": "Inspired embroidery in gold dori, sequins and moti.",
+            "rating": {
+                "rate": 3.9,
+                "count": 100
+            },
+            "image": "p9",
+            "colors": [
+                {
+                    "code": "#ffb900",
+                    "name": "Yellow"
+                }
+            ],
+            "images": [
+                "K-S-1.webp",
+                "K-S-2.webp",
+                "K-S-3.webp"
+            ],
+            "details": [
+                "Made from premium quality fabric",
+                "Perfect for festive occasions",
+                "Available in multiple sizes"
+            ],
+            "sizes": [
+                {
+                    "size": "S",
+                    "stock": 0
+                },
+                {
+                    "size": "M",
+                    "stock": 1
+                },
+                {
+                    "size": "L",
+                    "stock": 0
+                },
+                {
+                    "size": "XL",
+                    "stock": 0
+                }
+            ]
+        },
+        
+
+                {
+                  "id": 10,
+                  "name": "Ivory Oasis Kurta",
+                  "originalPrice": 1220,
+                  "discountPercentage": 22,
+                  "category": "kurta",
+                  "description": "Adorned with aari embroidery and embellished with embroidered borders.",
+                  "rating": {
+                    "rate": 3.2,
+                    "count": 290
+                  },
+                  "image": "p10",
+                  "colors": [
+                    {
+                      "code": "#fff",
+                      "name": "White"
+                    }
+                  ],
+                  "images": [
+                    "K-T-1.webp",
+                    "K-T-2.webp",
+                    "K-T-3.webp"
+                  ],
+                  "details": [
+                    "Made from premium quality fabric",
+                    "Perfect for festive occasions",
+                    "Available in multiple sizes"
+                  ],
+                  "sizes": [
+                    { "size": "S", "stock": 0 },
+                    { "size": "M", "stock": 3 },
+                    { "size": "L", "stock": 1 },
+                    { "size": "XL", "stock": 3 }
+                  ]
+                },
+                {
+                  "id": 11,
+                  "name": "Mustard Spring Blossom Kurta",
+                  "originalPrice": 1200,
+                  "discountPercentage": 25,
+                  "category": "kurta",
+                  "description": "Adorned with aari embroidery and embellished with embroidered borders.",
+                  "rating": { 
+                    "rate": 4.6, 
+                    "count": 190 
+                  },
+                  "image": "p11",
+                  "colors": [
+                    { 
+                      "code": "#ffb900", 
+                      "name": "Yellow" 
+                    }
+                  ],
+                  "images": [
+                    "K-U-1.webp",
+                    "K-U-2.webp",
+                    "K-U-3.webp"
+                  ],
+                  "details": [
+                    "Made from premium quality fabric",
+                    "Perfect for festive occasions",
+                    "Available in multiple sizes"
+                  ]},
+                    {
+                      "sizes": [
+                        { 
+                          "size": "S", 
+                          "stock": 2 
+                        },
+                        { 
+                          "size": "M", 
+                          "stock": 0 
+                        },
+                        { 
+                          "size": "L", 
+                          "stock": 4 
+                        },
+                        { 
+                          "size": "XL", 
+                          "stock": 1 
+                        }
+                      ]
+                    },
+                    {
+                      "id": 12,
+                      "name": "Ivory Wine Garden Frock Dress",
+                      "originalPrice": 1500,
+                      "discountPercentage": 26,
+                      "category": "frock",
+                      "description": "The kurta dress has a beautiful Wine Garden foil placement print on the hemline.",
+                      "rating": { 
+                        "rate": 3.6, 
+                        "count": 150 
+                      },
+                      "image": "p12",
+                      "colors": [
+                        { 
+                          "code": "#fff", 
+                          "name": "White" 
+                        }
+                      ],
+                      "images": [
+                        "K-I-1.webp",
+                        "K-I-2.webp",
+                        "K-I-3.webp"
+                      ],
+                      "details": [
+                        "Made from premium quality fabric",
+                        "Perfect for festive occasions",
+                        "Available in multiple sizes"
+                      ],
+                      "sizes": [
+                        { 
+                          "size": "S", 
+                          "stock": 4 
+                        },
+                        { 
+                          "size": "M", 
+                          "stock": 2 
+                        },
+                        { 
+                          "size": "L", 
+                          "stock": 1 
+                        },
+                        { 
+                          "size": "XL", 
+                          "stock": 0 
+                        }
+                      ]
+                    },
+                    
+                    {
+                      "id": 13,
+                      "name": "Black Fern Tiered Frock Dress",
+                      "originalPrice": 1400,
+                      "discountPercentage": 23,
+                      "category": "frock",
+                      "description": "Gold foil and Embellished sleeve with royal touch.",
+                      "rating": { 
+                        "rate": 4.1, 
+                        "count": 360 
+                      },
+                      "image": "p13",
+                      "colors": [
+                        { 
+                          "code": "#000", 
+                          "name": "Black" 
+                        }
+                      ],
+                      "images": [
+                        "F-A-1.webp",
+                        "F-A-2.webp",
+                        "F-A-3.webp"
+                      ],
+                      "details": [
+                        "Made from premium quality fabric",
+                        "Perfect for festive occasions",
+                        "Available in multiple sizes"
+                      ],
+                      "sizes":[
+                         { 
+                           "size":"S", 
+                           "stock":"4"
+                         },
+                         { 
+                           "size":"M", 
+                           "stock":"0"
+                         },
+                         { 
+                           "size":"L", 
+                           "stock":"2"
+                         },
+                         { 
+                           "size":"XL", 
+                           "stock":"0"
+                         }
+                       ]
+                     }
+                  ],
+                  
+                  
+                    {
+                        "id": 14,
+                        "name": "Red Rain Lily Frock Dress",
+                        "originalPrice": 2330,
+                        "discountPercentage": 26,
+                        "category": "frock",
+                        "description": "Digital printed kurta dress with Dhagai detailing in accents of red & gold.",
+                        "rating": {
+                            "rate": 4.0,
+                            "count": 230
+                        },
+                        "image": "p14",
+                        "colors": [
+                            {
+                                "code": "#c40404",
+                                "name": "#Red"
+                            }
+                        ],
+                        "images": [
+                            "F-B-1.webp",
+                            "F-B-2.webp",
+                            "F-B-3.webp"
+                        ],
+                        "details": [
+                            "Made from premium quality fabric",
+                            "Perfect for festive occasions",
+                            "Available in multiple sizes"
+                        ],
+                        "sizes": [
+                            { "size": "S", "stock": 0 },
+                            { "size": "M", "stock": 0 },
+                            { "size": "L", "stock": 0 },
+                            { "size": "XL", "stock": 0 }
+                        ]
+                    },
+                    {
+                        "id": 15,
+                        "name": "Vanilla Poppy Petal Frock Dress",
+                        "originalPrice": 1110,
+                        "discountPercentage": 20,
+                        "category": "frock",
+                        "description": "Layered hemline and Embellished with border and edged with kinari.",
+                        "rating": {
+                            "rate": 4.6,
+                            "count": 190
+                        },
+                        "image": "p15",
+                        "colors": [
+                            {
+                                "code": "#f2d68e",
+                                "name": "Skin"
+                            }
+                        ],
+                        "images": [
+                            "F-D-1.webp",
+                            "F-D-2.webp",
+                            "F-D-3.webp"
+                        ],
+                        "details": [
+                            "Made from premium quality fabric",
+                            "Perfect for festive occasions",
+                            "Available in multiple sizes"
+                        ],
+                        "sizes": [
+                            { "size": "S", "stock": 2 },
+                            { "size": "M", "stock": 0 },
+                            { "size": "L", "stock": 1 },
+                            { "size": "XL", "stock": 0 }
+                        ]
+                    },
+                    {
+                        "id": 16,
+                        "name": "Black Irisbud Frock Dress",
+                        "originalPrice": 1350,
+                        "discountPercentage": 22,
+                        "category": "frock",
+                        "description": "Digital printed kurta dress with Layered hemline and Balloon Sleeves.",
+                        "rating": {
+                            "rate": 4.3,
+                            "count": 330
+                        },
+                        "image": "p16",
+                        "colors": [
+                            {
+                                "code": "#000",
+                                "name": "Black"
+                            }
+                        ],
+                        "images": [
+                            "F-C-1.webp",
+                            "F-C-2.webp",
+                            "F-C-3.webp"
+                        ],
+                        "details": [
+                            "Made from premium quality fabric",
+                            "Perfect for festive occasions",
+                            "Available in multiple sizes"
+                        ],
+                        "sizes": [
+                            { "size": "S", "stock": 1 },
+                            { "size": "M", "stock": 0 },
+                            { "size": "L", "stock": 2 },
+                            { "size": "XL", "stock": 0 }
+                        ]
+                    },
+                    
+                        {
+                            "id": 17,
+                            "name": "Sea Green Grace Frock Dress",
+                            "originalPrice": 1200,
+                            "discountPercentage": 25,
+                            "category": "frock",
+                            "description": "A-line panelled kurta dress - Edged with kinari and Embroidered yoke",
+                            "rating": { "rate": 4.6, "count": 190 },
+                            "image": "p17",
+                            "colors": [{ "code": "#c40404", "name": "Red" }],
+                            "images": [
+                                "K-K-1.webp",
+                                "K-K-2.webp",
+                                "K-K-3.webp"
+                            ],
+                            "details": [
+                                "Made from premium quality fabric",
+                                "Perfect for festive occasions",
+                                "Available in multiple sizes"
+                            ],
+                            "sizes": [
+                                { "size": "S", "stock": 0 },
+                                { "size": "M", "stock": 0 },
+                                { "size": "L", "stock": 0 },
+                                { "size": "XL", "stock": 0 }
+                            ]
+                        },
+                        {
+                            "id": 18,
+                            "name": "Red Son Patti Saree",
+                            "originalPrice": 1200,
+                            "discountPercentage": 25,
+                            "category": "saree",
+                            "description": "Palla intricately embroidered with signature motifs - Son-Patti.",
+                            "rating": { "rate": 4.6, "count": 190 },
+                            "image": "p19",
+                            "colors": [{ "code": "#c40404", "name": "Red" }],
+                            "images": [
+                                "S-L-1.webp",
+                                "S-L-2.webp",
+                                "S-L-3.webp"
+                            ],
+                            "details": [
+                                "Made from premium quality fabric",
+                                "Perfect for festive occasions",
+                                "Available in multiple sizes"
+                            ],
+                            "sizes": [
+                                { "size": "S", "stock": 0 },
+                                { "size": "M", "stock": 0 },
+                                { "size": "L", "stock": 0 },
+                                { "size": "XL", "stock": 0 }
+                            ]
+                        },
+                        
+                            {
+                                "id": 19,
+                                "name": "Ivory Coin Work Saree",
+                                "originalPrice": 1200,
+                                "discountPercentage": 25,
+                                "category": "saree",
+                                "description": "Ivory saree embroidered with coins and gota and Contrast black border.",
+                                "rating": { "rate": 4.6, "count": 190 },
+                                "image": "p20",
+                                "colors": [{ "code": "#c40404", "name": "Red" }],
+                                "images": [
+                                    "S-M-1.webp",
+                                    "S-M-2.webp",
+                                    "S-M-3.webp"
+                                ],
+                                "details": [
+                                    "Made from premium quality fabric",
+                                    "Perfect for festive occasions",
+                                    "Available in multiple sizes"
+                                ],
+                                "sizes": [
+                                    { "size": "S", "stock": 0 },
+                                    { "size": "M", "stock": 0 },
+                                    { "size": "L", "stock": 0 },
+                                    { "size": "XL", "stock": 0 }
+                                ]
+                            },
+                            {
+                                "id": 20,
+                                "name": "Mysore Pak Saree",
+                                "originalPrice": 1200,
+                                "discountPercentage": 25,
+                                "category": "saree",
+                                "description": "Designed in silk tissue, for the bride who embraces tradition with a side of her own style.",
+                                "rating": { "rate": 4.6, "count": 190 },
+                                "image": "p21",
+                                "colors": [{ "code": "#c40404", "name": "Red" }],
+                                "images": [
+                                    "S-N-1.webp",
+                                    "S-N-2.webp",
+                                    "S-N-3.webp"
+                                ],
+                                "details": [
+                                    "Made from premium quality fabric",
+                                    "Perfect for festive occasions",
+                                    "Available in multiple sizes"
+                                ],
+                                "sizes": [
+                                    { "size": "S", "stock": 0 },
+                                    { "size": "M", "stock": 0 },
+                                    { "size": "L", "stock": 0 },
+                                    { "size": "XL", "stock": 0 }
+                                ]
+                            },
+                            
+                                {
+                                    "id": 21,
+                                    "name": "Black Coin Work Saree",
+                                    "originalPrice": 1200,
+                                    "discountPercentage": 25,
+                                    "category": "saree",
+                                    "description": "Black saree embroidered with coins and gota. Contrast red border with gota kaam.",
+                                    "rating": { "rate": 4.6, "count": 190 },
+                                    "image": "p22",
+                                    "colors": [{ "code": "#c40404", "name": "Red" }],
+                                    "images": [
+                                        "S-P-1.webp",
+                                        "S-P-2.webp",
+                                        "S-P-3.webp"
+                                    ],
+                                    "details": [
+                                        "Made from premium quality fabric",
+                                        "Perfect for festive occasions",
+                                        "Available in multiple sizes"
+                                    ],
+                                    "sizes": [
+                                        { "size": "S", "stock": 0 },
+                                        { "size": "M", "stock": 0 },
+                                        { "size": "L", "stock": 0 },
+                                        { "size": "XL", "stock": 0 }
+                                    ]
+                                },
+                                {
+                                    "id": 22,
+                                    "name": "Gold Tissue Saree",
+                                    "originalPrice": 1200,
+                                    "discountPercentage": 25,
+                                    "category": "saree",
+                                    "description": "Saree embellished with contrast dusty pink border.",
+                                    "rating": { "rate": 4.6, "count": 190 },
+                                    "image": "p23",
+                                    "colors": [{ "code": "#c40404", "name": "Red" }],
+                                    "images": [
+                                        "S-S-1.webp",
+                                        "S-S-2.webp",
+                                        "S-S-3.webp"
+                                    ],
+                                    "details": [
+                                        "Made from premium quality fabric",
+                                        "Perfect for festive occasions",
+                                        "Available in multiple sizes"
+                                    ],
+                                    "sizes": [
+                                        { "size": "S", "stock": 0 },
+                                        { "size": "M", "stock": 0 },
+                                        { "size": "L", "stock": 0 },
+                                        { "size": "XL", "stock": 0 }
+                                    ]
+                                },
+                                
+                                    {
+                                        "id": 23,
+                                        "name": "Black Oasis Saree",
+                                        "originalPrice": 1200,
+                                        "discountPercentage": 25,
+                                        "category": "saree",
+                                        "description": "Saree comes with Sheer palla is embellished with embroidered border and tassel detail.",
+                                        "rating": { "rate": 4.6, "count": 190 },
+                                        "image": "p24",
+                                        "colors": [{ "code": "#c40404", "name": "Red" }],
+                                        "images": [
+                                            "S-K-1.webp",
+                                            "S-K-2.webp",
+                                            "S-K-3.webp"
+                                        ],
+                                        "details": [
+                                            "Made from premium quality fabric",
+                                            "Perfect for festive occasions",
+                                            "Available in multiple sizes"
+                                        ],
+                                        "sizes": [
+                                            { "size": "S", "stock": 0 },
+                                            { "size": "M", "stock": 0 },
+                                            { "size": "L", "stock": 0 },
+                                            { "size": "XL", "stock": 0 }
+                                        ]
+                                    },
+                                    {
+                                        "id": 24,
+                                        "name": "The Son Barfi Saree",
+                                        "originalPrice": 1200,
+                                        "discountPercentage": 25,
+                                        "category": "saree",
+                                        "description": "A resplendent vision in gold, The Son Barfi saree is designed in gold tissue.",
+                                        "rating": { "rate": 4.6, "count": 190 },
+                                        "image": "p25",
+                                        "colors": [{ "code": "#c40404", "name": "Red" }],
+                                        "images": [
+                                            "S-O-1.webp",
+                                            "S-O-2.webp",
+                                            "S-O-3.webp"
+                                        ],
+                                        "details": [
+                                            "Made from premium quality fabric",
+                                            "Perfect for festive occasions",
+                                            "Available in multiple sizes"
+                                        ],
+                                        "sizes": [
+                                            { "size": "S", "stock": 0 },
+                                            { "size": "M", "stock": 0 },
+                                            { "size": "L", "stock": 0 },
+                                            { "size": "XL", "stock": 0 }
+                                        ]
+                                    },
+                                    
+                                        {
+                                            "id": 25,
+                                            "name": "Shahi Tukda Tissue Saree",
+                                            "originalPrice": 1200,
+                                            "discountPercentage": 25,
+                                            "category": "saree",
+                                            "description": "Intricately embroidered palla in signature Kalpatru motif in dori, sitara and moti kaam.",
+                                            "rating": { "rate": 4.6, "count": 190 },
+                                            "image": "p26",
+                                            "colors": [{ "code": "#c40404", "name": "Red" }],
+                                            "images": [
+                                                "S-T-1.webp",
+                                                "S-T-2.webp",
+                                                "S-T-3.webp"
+                                            ],
+                                            "details": [
+                                                "Made from premium quality fabric",
+                                                "Perfect for festive occasions",
+                                                "Available in multiple sizes"
+                                            ],
+                                            "sizes": [
+                                                { "size": "S", "stock": 0 },
+                                                { "size": "M", "stock": 0 },
+                                                { "size": "L", "stock": 0 },
+                                                { "size": "XL", "stock": 0 }
+                                            ]
+                                        },
+                                        {
+                                            "id": 26,
+                                            "name": "Black Tassel Gota Saree",
+                                            "originalPrice": 1200,
+                                            "discountPercentage": 25,
+                                            "category": "saree",
+                                            "description": "Palla embroidered with accent gota tassels, Edged with kinari Blouse piece.",
+                                            "rating": { "rate": 4.6, "count": 190 },
+                                            "image": "p27",
+                                            "colors": [{ "code": "#c40404", "name": "Red" }],
+                                            "images": [
+                                                "S-R-1.webp",
+                                                "S-R-2.webp",
+                                                "S-R-3.webp"
+                                            ],
+                                            "details": [
+                                                "Made from premium quality fabric",
+                                                "Perfect for festive occasions",
+                                                "Available in multiple sizes"
+                                            ],
+                                            "sizes": [
+                                                { "size": "S", "stock": 0 },
+                                                { "size": "M", "stock": 0 },
+                                                { "size": "L", "stock": 0 },
+                                                { "size": "XL", "stock": 0 }
+                                            ]
+                                        },
+                                        
+                                            {
+                                                "id": 27,
+                                                "name": "Yellow Nomatic Tribe Lehenga Set",
+                                                "originalPrice": 1200,
+                                                "discountPercentage": 25,
+                                                "category": "lehengas",
+                                                "description": "Lehenga comes with beautiful alternate foil and digital printed kalis.",
+                                                "rating": { "rate": 4.6, "count": 190 },
+                                                "image": "p28",
+                                                "colors": [{ "code": "#c40404", "name": "Red" }],
+                                                "images": [
+                                                    "L-A-1.webp",
+                                                    "L-A-2.webp",
+                                                    "L-A-3.webp"
+                                                ],
+                                                "details": [
+                                                    "Made from premium quality fabric",
+                                                    "Perfect for festive occasions",
+                                                    "Available in multiple sizes"
+                                                ],
+                                                "sizes": [
+                                                    { "size": "S", "stock": 0 },
+                                                    { "size": "M", "stock": 0 },
+                                                    { "size": "L", "stock": 0 },
+                                                    { "size": "XL", "stock": 0 }
+                                                ]
+                                            },
+                                            {
+                                                "id": 28,
+                                                "name": "The Gulab Sherbet Lehenga",
+                                                "originalPrice": 1200,
+                                                "discountPercentage": 25,
+                                                "category": "lehengas",
+                                                "description": "The Gulab Sherbet lehenga pays homage to the traditional bride.",
+                                                "rating": { "rate": 4.6, "count": 190 },
+                                                "image": "p29",
+                                                "colors": [{ "code": "#c40404", "name": "Red" }],
+                                                "images": [
+                                                    "L-I-1.webp",
+                                                    "L-I-2.webp",
+                                                    "L-I-3.webp"
+                                                ],
+                                                "details": [
+                                                    "Made from premium quality fabric",
+                                                    "Perfect for festive occasions",
+                                                    "Available in multiple sizes"
+                                                ],
+                                                "sizes": [
+                                                    { "size": "S", "stock": 0 },
+                                                    { "size": "M", "stock": 0 },
+                                                    { "size": "L", "stock": 0 },
+                                                    { "size": "XL", "stock": 0 }
+                                                ]
+                                            },
+                                           
+    {
+        "id": 29,
+        "name": "Ivory Neel-Kamal Lehenga Set",
+        "originalPrice": 1200,
+        "discountPercentage": 25,
+        "category": "lehengas",
+        "description": "Lehenga adorned with beautiful dori, sitara and dabka kaam.",
+        "rating": { "rate": 4.6, "count": 190 },
+        "image": "p30",
+        "colors": [{ "code": "#c40404", "name": "Red" }],
+        "images": [
+            "L-F-1.webp",
+            "L-F-2.webp",
+            "L-F-3.webp"
+        ],
+        "details": [
+            "Made from premium quality fabric",
+            "Perfect for festive occasions",
+            "Available in multiple sizes"
+        ],
+        "sizes": [
+            { "size": "S", "stock": 0 },
+            { "size": "M", "stock": 0 },
+            { "size": "L", "stock": 0 },
+            { "size": "XL", "stock": 0 }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "The Neel Bahar Lehenga",
+        "originalPrice": 1200,
+        "discountPercentage": 25,
+        "category": "lehengas",
+        "description": "A brilliant Azure blue that sparkles at any occasion.",
+        "rating": { "rate": 4.6, "count": 190 },
+        "image": "p31",
+        "colors": [{ "code": "#c40404", "name": "Red" }],
+        "images": [
+            "L-C-1.webp",
+            "L-C-2.webp",
+            "L-C-3.webp"
+        ],
+        "details": [
+            "Made from premium quality fabric",
+            "Perfect for festive occasions",
+            "Available in multiple sizes"
+        ],
+        "sizes": [
+            { "size": "S", "stock": 0 },
+            { "size": "M", "stock": 0 },
+            { "size": "L", "stock": 0 },
+            { "size": "XL", "stock": 0 }
+        ]
+    },
+    
+        {
+            "id": 31,
+            "name": "The Jaljeera Lehenga",
+            "originalPrice": 1200,
+            "discountPercentage": 25,
+            "category": "lehengas",
+            "description": "Drawing inspiration from our house mascots that have been a part of our brand journey.",
+            "rating": { "rate": 4.6, "count": 190 },
+            "image": "p32",
+            "colors": [{ "code": "#c40404", "name": "Red" }],
+            "images": [
+                "L-D-1.webp",
+                "L-D-2.webp",
+                "L-D-3.webp"
+            ],
+            "details": [
+                "Made from premium quality fabric",
+                "Perfect for festive occasions",
+                "Available in multiple sizes"
+            ],
+            "sizes": [
+                { "size": "S", "stock": 0 },
+                { "size": "M", "stock": 0 },
+                { "size": "L", "stock": 0 },
+                { "size": "XL", "stock": 0 }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Yellow Sorbet Paan-Patti Lehenga",
+            "originalPrice": 1200,
+            "discountPercentage": 25,
+            "category": "lehengas",
+            "description": "Lehenga embellished with Paan Patti & Son-chidiya motif in gold dori & sitara kaam.",
+            "rating": { "rate": 4.6, "count": 190 },
+            "image": "p33",
+            "colors": [{ "code": "#c40404", "name": "Red" }],
+            "images": [
+                "L-G-1.webp",
+                "L-G-2.webp",
+                "L-G-3.webp"
+            ],
+            "details": [
+                "Made from premium quality fabric",
+                "Perfect for festive occasions",
+                "Available in multiple sizes"
+            ],
+            "sizes": [
+                { "size": "S", "stock": 0 },
+                { "size": "M", "stock": 0 },
+                { "size": "L", "stock": 0 },
+                { "size": "XL", "stock": 0 }
+            ]
+        },
+        
+            {
+                "id": 33,
+                "name": "Nan Khatai Lehenga",
+                "originalPrice": 1200,
+                "discountPercentage": 25,
+                "category": "lehengas",
+                "description": "Adorned in the Chand-phool motifs that hugs the bottom of the lehenga, with an ornate fully embroidered blouse.",
+                "rating": { "rate": 4.6, "count": 190 },
+                "image": "p34",
+                "colors": [{ "code": "#c40404", "name": "Red" }],
+                "images": [
+                    "L-F-1.webp",
+                    "L-F-2.webp",
+                    "L-F-3.webp"
+                ],
+                "details": [
+                    "Made from premium quality fabric",
+                    "Perfect for festive occasions",
+                    "Available in multiple sizes"
+                ],
+                "sizes": [
+                    { "size": "S", "stock": 0 },
+                    { "size": "M", "stock": 0 },
+                    { "size": "L", "stock": 0 },
+                    { "size": "XL", "stock": 0 }
+                ]
+            },
+            {
+                "id": 35,
+                "name": "The Imarti Lehenga",
+                "originalPrice": 1200,
+                "discountPercentage": 25,
+                "category": "lehengas",
+                "description": "Lehenga adorned with Raj Pankh motif in dori and sitara kaam. Hemline embellished with gota detail.",
+                "rating": { "rate": 4.6, "count": 190 },
+                "image": "p35",
+                "colors": [{ "code": "#c40404", "name": "Red" }],
+                "images": [
+                    "L-H-1.webp",
+                    "L-H-2.webp",
+                    "L-H-3.webp"
+                ],
+                "details": [
+                    "Made from premium quality fabric",
+                    "Perfect for festive occasions",
+                    "Available in multiple sizes"
+                ],
+                "sizes": [
+                    { "size": "S", "stock": 0 },
+                    { "size": "M", "stock": 0 },
+                    { "size": "L", "stock": 0 },
+                    { "size": "XL", "stock": 0 }
+                ]
+            },
+            
+                {
+                    "id": 36,
+                    "name": "Rose Thandai Lehenga",
+                    "originalPrice": 1200,
+                    "discountPercentage": 25,
+                    "category": "lehengas",
+                    "description": "Lehenga embellished with motifs inspired by Chand-phool and Sehra in gold dori, sitara and pita kaam.",
+                    "rating": { "rate": 4.6, "count": 190 },
+                    "image": "p36",
+                    "colors": [{ "code": "#c40404", "name": "Red" }],
+                    "images": [
+                        "L-B-1.webp",
+                        "L-B-2.webp",
+                        "L-B-3.webp"
+                    ],
+                    "details": [
+                        "Made from premium quality fabric",
+                        "Perfect for festive occasions",
+                        "Available in multiple sizes"
+                    ],
+                    "sizes": [
+                        { "size": "S", "stock": 0 },
+                        { "size": "M", "stock": 0 },
+                        { "size": "L", "stock": 0 },
+                        { "size": "XL", "stock": 0 }
+                    ]
+                }
+            ]
