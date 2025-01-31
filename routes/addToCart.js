@@ -33,7 +33,7 @@ export const addToCart = async (req, res) => {
       await cart.save();
     }
 
-    res.json(cart);
+    res.json({ added: true, cart });
   } catch (error) {
     res.status(500).json({ message: error.message });
   }
